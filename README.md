@@ -1,4 +1,5 @@
 # ELK_Project
+- 자세한 정보 링크 : https://www.notion.so/ELK-Stack-fa3fce65fe474e78b7e3ffe4c61e2785?pvs=4#b4f0a6317b0940be887b3f32f6442498
 
 ## 미니 프로젝트 
 - 2020년 부터 2023년 9월 4일 까지의 데이터를 활용하여 데이터 시각화 대시보드 만들기
